@@ -1,6 +1,6 @@
 ### CV/Resume Applications
 
-```markdown
+
 # Resume Builder App
 
 A resume builder app developed using Flutter that allows users to create professional resumes with ease. The app includes sections for personal details, education, work history, skills, languages, interests, achievements, and projects. Users can also generate a PDF of their resume.
